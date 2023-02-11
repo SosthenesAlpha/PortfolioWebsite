@@ -1,0 +1,55 @@
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
+nav,section,footer{
+    background-color: rgb(9, 2, 26) !important;
+}
+
+.others1{
+  background-color: rgb(14, 5, 26) !important;
+}
+.nav-item:hover {
+    text-decoration: underline;
+  }
+  /* .nav-item.active {
+    text-decoration: underline;
+  } */
+  
+.Name1{
+/* font-size: larger; */
+font-weight: 800;
+  }
+.Name2{
+    
+    font-weight: 600;
+      }
+.Name3{
+    
+        font-weight: 750;
+          }
+
+/* .butX {
+            display: inline-block;
+            width: 100px;
+            height: 100px;
+            background-color: blue;
+            color: white;
+            text-align: center;
+            line-height: 100px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+          }
+.butX:hover {
+            background-color: darkblue;
+          } */
+
+/* .card:hover {
+            text-decoration: underline;
+          } */
+
+b{
+  font-weight: 500 !important;
+}
